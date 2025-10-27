@@ -1,0 +1,8 @@
+napi_tlmtca4zusjf9caa1t3b88vv3mt83hfs1wd62hg1dw1e18lkybke6jsrp7dl25od
+cd frontend
+npm install
+npm run dev
+
+cd backend
+npm install
+npm run dev
