@@ -1,5 +1,5 @@
-AeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImJvemZ5eXJjamx3amNwZ2xoY2pmIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc2MDcxNDM5OCwiZXhwIjoyMDc2MjkwMzk4fQ.0qWhqsiAK0iZqMBbf5qTkBzdZFeFNkdv2sV711Ybi7gDATABASE_URLy JWT_SECRET="aP9s7!fG2qX#rL8vM0uTz3eK1bN6yQ4w"WT_SECRETen Secretos
+AeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImJvemZ5eXJjamx3amNwZ2xoY2pmIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc2MDcxNDM5OCwiZXhwIjoyMDc2MjkwMzk4fQ.0qWhqsiAK0iZqMBbf5qTkBzdZFeFNkdv2sV711Ybi7g
+DATABASE_URLy JWT_SECRET="aP9s7!fG2qX#rL8vM0uTz3eK1bN6yQ4w"
+WT_SECRETen Secretos
 
-backend: cd backend && npm install && npm start
-
-frontend: cd frontend && npm install && npm run dev
+cd frontend && npm install && npm run dev
